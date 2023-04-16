@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: antiquewhite;
+}
